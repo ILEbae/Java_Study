@@ -7,4 +7,3 @@ public class Ex2_3 {
 
     }
 }
-s
