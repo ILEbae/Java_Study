@@ -15,6 +15,7 @@ public class Ex5_10 {
             String tmp = scanner.nextLine();
 
             if(tmp.equals(words[i][1])){
+
                 System.out.printf("정답입니다 %n%n");
             }else{
                 System.out.printf("틀렸습니다. 정답은 %s 입니다. %n%n",words[i][1]);
