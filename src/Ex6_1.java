@@ -4,7 +4,7 @@ class Ex6_1 {
         t = new Tv();
         t.channel =7;
         t.channeldown();
-        System.out.println("현재 채널은"+t.channel+"입니다");
+        System.out.println("현재 채널은 "+t.channel+" 입니다");
 
     }
 }
