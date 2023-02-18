@@ -1,4 +1,4 @@
-class Car2{
+class  Car2{
     String color;
     String gearType;
     int door;
